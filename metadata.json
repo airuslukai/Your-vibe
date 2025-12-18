@@ -1,0 +1,7 @@
+{
+  "name": "Eternal Muse",
+  "description": "An ultra-romantic, high-end web experience designed to showcase memories and express deep affection through 3D visuals, AI-powered love letters, and immersive animations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
